@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/bootstrap';
+@import './layout.scss';
+@import './user.scss';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    // outline: 1px solid red;
+}
+
+.primary-bg {
+    background-color: #008fd5;
+}
+
+.primary-color {
+    color: #008fd5;
+}
+
+.secondary-bg {
+    background-color: #1211112b;
+}
